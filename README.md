@@ -1,5 +1,5 @@
 # Java-Flappy-Ball
-### Example Game in 2D Graphics made by our I.T Prof. HKRI
+### Example Game in 2D Graphics made by our I.T Prof. John Espiritu (HKRI) https://github.com/hkri
 
 Controls: Tap Space Bar only. 
 ------------------------------------------------------------------------------------------------------------------
